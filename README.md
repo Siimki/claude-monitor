@@ -3,6 +3,10 @@
 A small Mac app that lives in the menu bar (top right of your screen).
 It shows how much of your Claude usage limit you have used, and when it resets.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Claude Monitor menu bar overlay" width="420">
+</p>
+
 ## What you see
 
 - **5-hour limit**: how much you used in the last 5 hours
