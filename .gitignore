@@ -1,0 +1,4 @@
+.build/
+ClaudeMonitor.app/
+.DS_Store
+.swiftpm/
